@@ -1,0 +1,83 @@
+[
+  {
+    "id": "masaustu-lamba",
+    "code": "AR-1001",
+    "name": "Masaüstü LED Lamba",
+    "category": "Promosyon",
+    "description": "Dokunmatik kontrollü, üç kademeli aydınlatma sunan şık masaüstü lamba.",
+    "images": ["images/led-lamba-1.svg", "images/led-lamba-2.svg"],
+    "features": ["3 kademeli dokunmatik ışık", "USB şarj desteği", "Logo baskısına uygun alan", "Katlanabilir kompakt gövde"],
+    "whatsappMessage": "Masaüstü LED Lamba hakkında bilgi almak istiyorum."
+  },
+  {
+    "id": "metal-kalem",
+    "code": "AR-1002",
+    "name": "Premium Metal Kalem",
+    "category": "Promosyon",
+    "description": "Kurumsal kimliğinizi tamamlayan, lazer baskıya uygun metal tükenmez kalem.",
+    "images": ["images/metal-kalem-1.svg", "images/metal-kalem-2.svg"],
+    "features": ["Mat metal yüzey", "Mavi renk tükenmez uç", "Lazer kazıma baskı", "Hediye kutusu seçeneği"],
+    "whatsappMessage": "Premium Metal Kalem hakkında bilgi almak istiyorum."
+  },
+  {
+    "id": "bez-canta",
+    "code": "AR-1003",
+    "name": "Organik Bez Çanta",
+    "category": "Tekstil",
+    "description": "Günlük kullanıma uygun, dayanıklı ve markanıza özel baskı uygulanabilir bez çanta.",
+    "images": ["images/bez-canta-1.svg", "images/bez-canta-2.svg"],
+    "features": ["100% pamuk kumaş", "38 x 42 cm ölçü", "Tek veya çift taraf baskı", "Uzun sap seçeneği"],
+    "whatsappMessage": "Organik Bez Çanta hakkında bilgi almak istiyorum."
+  },
+  {
+    "id": "kartvizit",
+    "code": "AR-1004",
+    "name": "Özel Kesim Kartvizit",
+    "category": "Matbaa",
+    "description": "İlk izlenimi güçlendiren, seçkin dokulu kağıt ve özel kesim seçenekleri.",
+    "images": ["images/kartvizit-1.svg", "images/kartvizit-2.svg"],
+    "features": ["350 gr Amerikan Bristol", "Mat selefon veya kabartma lak", "Çift yön renkli baskı", "Özel kesim seçeneği"],
+    "whatsappMessage": "Özel Kesim Kartvizit hakkında bilgi almak istiyorum."
+  },
+  {
+    "id": "termos",
+    "code": "AR-1005",
+    "name": "Çelik Termos 500 ml",
+    "category": "Promosyon",
+    "description": "Gün boyu ideal sıcaklığı koruyan, kişiselleştirilebilir paslanmaz çelik termos.",
+    "images": ["images/termos-1.svg", "images/termos-2.svg"],
+    "features": ["500 ml kapasite", "6 saate kadar sıcak tutma", "Paslanmaz çelik iç yüzey", "UV veya lazer baskı"],
+    "whatsappMessage": "Çelik Termos 500 ml hakkında bilgi almak istiyorum."
+  },
+  {
+    "id": "folyo-yazi",
+    "code": "AR-1006",
+    "name": "Folyolu Vitrin Yazısı",
+    "category": "Tabela",
+    "description": "Mağaza ve ofis camları için yüksek görünürlüklü, uzun ömürlü folyo uygulaması.",
+    "images": ["images/vitrin-folyo-1.svg", "images/vitrin-folyo-2.svg"],
+    "features": ["İç ve dış mekan kullanımı", "Renkli folyo seçenekleri", "Ölçüye özel üretim", "Profesyonel montaj"],
+    "whatsappMessage": "Folyolu Vitrin Yazısı hakkında bilgi almak istiyorum."
+  },
+  {
+    "id": "a4-brosur",
+    "code": "AR-1007",
+    "name": "A4 Broşür Seti",
+    "category": "Matbaa",
+    "description": "Kurumsal tanıtım için yüksek baskı kalitesine sahip, iki parçalı broşür seti.",
+    "images": ["images/kartvizit-1.svg", "images/kartvizit-2.svg"],
+    "features": ["A4 boyut", "4 renk baskı", "Karton kapak seçeneği", "Hızlı üretim"],
+    "whatsappMessage": "A4 Broşür Seti hakkında bilgi almak istiyorum."
+  },
+  {
+    "id": "led-tabela",
+    "code": "AR-1008",
+    "name": "LED Tabela Panel",
+    "category": "Tabela",
+    "description": "Gece görünürlüğü yüksek, dış mekan kullanıma uygun LED tabela paneli.",
+    "images": ["images/vitrin-folyo-1.svg", "images/vitrin-folyo-2.svg"],
+    "features": ["LED aydınlatma", "Dış mekan dayanımı", "Özelleştirilebilir ölçü", "Montaj hizmeti"],
+    "whatsappMessage": "LED Tabela Panel hakkında bilgi almak istiyorum."
+  }
+]
+
