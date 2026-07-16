@@ -87,13 +87,14 @@ img {
 }
 
 .brand-logo {
-  width: 44px;
-  height: 44px;
+  width: 36px;
+  height: 36px;
   display: block;
-  border-radius: 12px;
+  border-radius: 10px;
   object-fit: contain;
   background: #fff;
   padding: 2px;
+  flex-shrink: 0;
 }
 
 .header-link,
