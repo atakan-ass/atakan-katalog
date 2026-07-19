@@ -208,6 +208,107 @@
         "images": ["images/Kartal-Kanatlı-Modeli.webp"],
         "features": ["Masaüstü ve konsol uyumlu","Asil ve güçlü tasarım","İsim veya logo eklenebilir", "Renk Çeşitleri vardır","Yüksek detaylı kanat dokusu"],
         "whatsappMessage": "Kartal Modeli – Dekoratif Kartal Figürü hakkında bilgi almak istiyorum."
+ },
+ {
+        "id": "00021",
+        "code": "Reklam-0021",
+        "name": "Tırtıklı Vazo – Dekoratif Vazo",
+        "category": "Promosyon",
+        "description": "Tırtıklı ve spiral katman yapısıyla göz alıcı bir ışık oyunu sunan modern vazo tasarımı! Yaşam alanlarınıza hareketli ve estetik bir hava katarken, yapay veya kurutulmuş çiçeklerinizle harika bir uyum yakalar ve dekorasyonunuza şıklık getirir.",
+        "images": ["images/Tırtıklı-Vazo.webp","images/Tırtıklı-Vazo2.webp","images/Tırtıklı-Vazo3.webp"],
+        "features": ["Masaüstü ve konsol uyumlu","Modern tırtıklı katman dokusu","İsim veya logo eklenebilir", "Renk Çeşitleri vardır","Minimalist dekoratif şık tasarım"],
+        "whatsappMessage": "Tırtıklı Vazo – Dekoratif Vazo hakkında bilgi almak istiyorum."
+ },
+ {
+        "id": "00022",
+        "code": "Reklam-0022",
+        "name": "Akış Desenli Vazo – Dekoratif Vazo",
+        "category": "Promosyon",
+        "description": "Yüzeyindeki pürüzsüz akış desenleriyle büyüleyici bir görsellik sunan modern vazo tasarımı! Evinizde veya ofisinizde sanatsal bir hava yaratırken, yapay veya kurutulmuş çiçeklerinizle harika bir uyum yakalar ve dekorasyonunuza zarif bir dokunuş ekler.",
+        "images": ["images/Akış-Desenli-Vazo.webp","images/Akış-Desenli-Vazo2.webp","images/Akış-Desenli-Vazo3.webp","images/Akış-Desenli-Vazo4.webp"],
+        "features": ["Masaüstü ve konsol uyumlu","Akışkan ve organik çizgi dokusu","İsim veya logo eklenebilir", "Renk Çeşitleri vardır","Minimalist dekoratif şık tasarım"],
+        "whatsappMessage": "Akış Desenli Vazo – Dekoratif Vazo hakkında bilgi almak istiyorum."
+ },
+ {
+        "id": "00023",
+        "code": "Reklam-0023",
+        "name": "Nexo Saksı – Dekoratif Vazo",
+        "category": "Promosyon",
+        "description": "İç içe geçen minimalist hatları ve fütüristik yapısıyla öne çıkan Nexo saksı tasarımı! Evinizde veya ofisinizde bitkilerinizi sergilemek için modern bir alternatif sunarken, güçlü çizgileriyle dekorasyonunuza estetik ve dinamik bir hava katar.",
+        "images": ["images/Nexo-Saksı.webp","images/Nexo-Saksı2.webp","images/Nexo-Saksı3.webp","images/Nexo-Saksı4.webp"],
+        "features": ["Masaüstü ve konsol uyumlu","Akışkan ve organik çizgi dokusu","İsim veya logo eklenebilir", "Renk Çeşitleri vardır","Minimalist dekoratif şık tasarım","Geometrik ve modern hatlar"],
+        "whatsappMessage": "Nexo Saksı – Dekoratif Vazo hakkında bilgi almak istiyorum."
+ } ,
+ {
+        "id": "00024",
+        "code": "Reklam-0024",
+        "name": "Toyota Supra MK4 Anahtarlık",
+        "category": "Promosyon",
+        "description": "JDM kültürünün efsanevi modeli Toyota Supra MK4 temalı şık anahtarlık tasarımı! Otomobil tutkunları için harika bir günlük aksesuar sunarken, efsanevi arka kanat ve gövde hatlarıyla anahtarlarınıza tarz katar ve cebinizde taşımak için mükemmel bir seçenektir.",
+        "images": ["images/Toyota-Supra.webp","images/Toyota-Supra2.webp","images/Toyota-Supra3.webp"],
+        "features": ["İkonik Supra MK4 hatları","Otomobil tutkunlarına özel hediye","İsim veya logo eklenebilir", "Renk Çeşitleri vardır","Minimalist dekoratif şık tasarım","Günlük kullanıma uygun aksesuar"],
+        "whatsappMessage": "Toyota Supra MK4 Anahtarlık hakkında bilgi almak istiyorum."
+ },
+ {
+        "id": "00025",
+        "code": "Reklam-0025",
+        "name": "Hot Wheels Garaj Anahtarlık",
+        "category": "Promosyon",
+        "description": "Model arabalarınızla uyumlu ve garaj temalı eğlenceli bir anahtarlık tasarımı! Antrenizde veya odanızda anahtarlarınızı düzenli tutarken, favori Hot Wheels araçlarınızı asarak sergilemenize olanak tanır ve duvarınıza renkli bir hava katar.",
+        "images": ["images/Hot-Wheels-Garaj.png"],
+        "features": ["Eğlenceli garaj temalı tasarım","Duvara monte edilebilir yapı","İsim veya logo eklenebilir", "Renk Çeşitleri vardır","Koleksiyon severlere özel hediye","Pratik ve dekoratif düzenleyici"],
+        "whatsappMessage": "Hot Wheels Garaj Anahtarlık hakkında bilgi almak istiyorum."
+ },
+ {
+        "id": "00026",
+        "code": "Reklam-0026",
+        "name": "Nissan Skyline R34 Anahtarlık",
+        "category": "Promosyon",
+        "description": "Otomobil dünyasının efsanesi Nissan Skyline R34 GT-R temalı şık anahtarlık tasarımı! Antrenizde veya odanızda anahtarlarınızı düzenli tutarken, ikonik arka far ve gövde hatlarıyla duvarınıza retro bir spor araba havası katar.",
+        "images": ["images/Nissan-Skyline-R34.webp","images/Nissan-Skyline-R342.webp"],
+        "features": ["İkonik R34 GT-R hatları","Duvara monte edilebilir yapı","İsim veya logo eklenebilir", "Renk Çeşitleri vardır","Koleksiyon severlere özel hediye","Pratik ve dekoratif düzenleyici"],
+        "whatsappMessage": "Nissan Skyline R34 Anahtarlık hakkında bilgi almak istiyorum."
+ },
+  {
+        "id": "00027",
+        "code": "Reklam-0027",
+        "name": "LED IŞIKLI AY TABLOSU",
+        "category": "Tabela",
+        "description": "Ev veya ofis duvarlarınızda gerçekçi bir Ay yüzeyi görüntüsü sunan büyüleyici lamba tasarımı! Yaşam alanlarınıza loş ve huzurlu bir atmosfer katarken, detaylı krater yapısıyla hem modern bir gece lambası hem de şık bir duvar dekorasyonu olarak öne çıkar.",
+        "images": ["images/LED-Isikli-Ay-Tablosu.webp","images/LED-Isikli-Ay-Tablosu2.webp","images/LED-Isikli-Ay-Tablosu3.webp"],
+        "features": ["LED aydınlatma entegrasyonuna uygun","Duvara monte edilebilir yapı","İsim veya logo eklenebilir", "Renk Çeşitleri vardır","Modern dekoratif şık lamba","Huzurlu loş gece aydınlatması"],
+        "whatsappMessage": "LED IŞIKLI AY TABLOSU hakkında bilgi almak istiyorum."
+ },
+  {
+        "id": "00028",
+        "code": "Reklam-0028",
+        "name": "Moka Çocuk Odası Çerçevesi",
+        "category": "Promosyon",
+        "description":"Çocuk odaları ve bebek oyun alanları için özel olarak tasarlanmış şirin çerçeve modeli! En güzel anıları veya neşeli çocuk çizimlerini sergilemek için harika bir alternatif sunarken, sıcak ve eğlenceli hatlarıyla odanın duvarlarına renkli bir neşe katar.",
+        "images": ["images/Moka-Çocuk.webp","images/Moka-Çocuk2.webp","images/Moka-Çocuk3.webp"],
+        "features": ["Sevimli ve detaylı doku","Dekoratif ve koleksiyon için uygun", "Masaüstü ve stant uyumlu", "İsim veya logo eklenebilir", "Renk Çeşitleri vardır","Duvara monte edilebilir yapı"],
+        "whatsappMessage": "Moka Çocuk Odası Çerçevesi hakkında bilgi almak istiyorum."
+ }, 
+ {
+        "id": "00029",
+        "code": "Reklam-0029",
+        "name": "9 Silindirli Yıldız Motor Modeli – Dekoratif Motor Heykeli",
+        "category": "Promosyon",
+        "description":"Havacılık tarihinin ikonik uçaklarında kullanılan dokuz silindirli yıldız motor tasarımı! Çalışma masanızda veya vitrininizde mekanik bir şaheser olarak öne çıkarken, ince işlenmiş piston ve silindir detaylarıyla hem mühendislik tutkunları hem de koleksiyonerler için harika bir objedir.",
+        "images": ["images/9-yıldızmotor.webp","images/9-yıldızmotor2.webp","images/9-yıldızmotor3.webp"],
+        "features": ["Hareketli mekanik parçalara uygun","Dekoratif ve koleksiyon için uygun", "Yüksek detaylı silindir yapısı", "İsim veya logo eklenebilir", "Renk Çeşitleri vardır","Havacılık tutkunlarına özel hediye"],
+        "whatsappMessage": "9 Silindirli Yıldız Motor Modeli – Dekoratif Motor Heykeli hakkında bilgi almak istiyorum."
+ },
+ {
+        "id": "00030",
+        "code": "Reklam-0030",
+        "name": "Zarif Kolye Sergileme Büstü – Dekoratif Takı Standı",
+        "category": "Promosyon",
+        "description":"Kolyelerinizi ve değerli takılarınızı en göz alıcı şekilde sergilemeniz için tasarlanmış estetik büst modeli! Vitrinlerinizde, fotoğraf çekimlerinizde veya kişisel makyaj masanızda ürünlerin zarafetini ön plana çıkarırken, modern hatlarıyla şık ve profesyonel bir sunum kalitesi sunar.",
+        "images": ["images/Zarif-Kolye.webp","images/Zarif-Kolye2.webp","images/Zarif-Kolye3.webp"],
+        "features": ["Pürüzsüz yüzey yapısına uygun","Zarif ve estetik hatlar", "Fotoğraf çekimleri için ideal", "İsim veya logo eklenebilir", "Renk Çeşitleri vardır","Profesyonel takı sunum standı","Tezgah ve vitrin uyumlu"],
+        "whatsappMessage": "Zarif Kolye Sergileme Büstü – Dekoratif Takı Standı hakkında bilgi almak istiyorum."
  }
+
 ]
 
