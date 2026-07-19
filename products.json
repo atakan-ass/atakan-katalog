@@ -65,7 +65,7 @@
         "name": "Dekoratif Ay Lambası",
         "category": "Promosyon",
         "description": "Ev ve ofisler için büyüleyici, gerçekçi bir ay lambası tasarımı! Yaşam alanlarınıza sıcak bir atmosfer katacak bu modern lamba, hem şık bir dekorasyon öğesi hem de sevdikleriniz için harika bir hediye alternatifidir.",
-        "images": ["images/Dekoratif Ay Lambası.webp"],
+        "images": ["images/Dekoratif-Ay-Lambası.webp"],
         "features": ["LED aydınlatma ile entegre.","2 renkli baskıya uygun tasarım", "Dekoratif kullanım", "İsim veya logo eklenebilir.", "Her renk yapılabilri","Gerçekçi ay yüzeyi dokusu.","Stant ve askı uyumlu."],
         "whatsappMessage": "Dekoratif Ay Lambası hakkında bilgi almak istiyorum."
  },
@@ -115,7 +115,7 @@
         "name": "Prasel Masa Düzenleyici – MOKA Design",
         "category": "Promosyon",
         "description": "Çalışma masalarınız ve ofisleriniz için Moka tonlarında, modern bir düzenleyici tasarımı! Kalemlerinizi, telefonunuzu ve küçük ofis gereçlerinizi düzenli tutarken, minimalist çizgileriyle çalışma alanınıza estetik ve prestijli bir hava katar.",
-        "images": ["images/Prasel Masa Düzenleyici.webp","images/Prasel Masa Düzenleyici2.webp"],
+        "images": ["images/Prasel-Masa-Düzenleyici.webp","images/Prasel-Masa-Düzenleyici2.webp"],
         "features": ["Özel telefon ve kalem bölmeli","Renkli baskıya uygun tasarım", "Masaüstü ve ofis uyumlu", "İsim veya logo eklenebilir", "Renk Çeşitleri vardır","Kompakt ve düzenleyici yapı","Modern geometrik gölge tasarımı"],
         "whatsappMessage": "Prasel Masa Düzenleyici – MOKA Design hakkında bilgi almak istiyorum."
  },
@@ -135,7 +135,7 @@
         "name": "Dalga Akışlı Lamba – Modern Heykelsi Gece Lambası",
         "category": "Promosyon",
         "description": "Dalgalı formuyla modern ve sanatsal bir dokunuş sunan heykelsi gece lambası tasarımı! Yaşam alanlarınıza yumuşak ve dinlendirici bir ışık yayarken, minimalist ve estetik çizgileriyle gündüzleri de şık bir dekoratif obje olarak öne çıkar.",
-        "images": ["images/Dalga-Akışlı-Lamba.webp","images/Dalga-Akışlı-Lamba2.webp", "images/Dalga-Akışlı-Lamba3.webp"],
+        "images": ["images/Dalga-Akışlı-Lamba.png","images/Dalga-Akışlı-Lamba2.png", "images/Dalga-Akışlı-Lamba3.png"],
         "features": ["LED aydınlatma donanımı uyumlu","Renkli baskıya uygun tasarım", "Masaüstü ve ofis uyumlu", "İsim veya logo eklenebilir", "Renk Çeşitleri vardır","Modern heykelsi dalga formu","Yumuşak gece lambası ışığı"],
         "whatsappMessage": "Dalga Akışlı Lamba – Modern Heykelsi Gece Lambasıhakkında bilgi almak istiyorum."
  },
@@ -185,7 +185,7 @@
         "name": "Dünya Yapbozu – Eğitici Harita",
         "category": "Oyuncak",
         "description": "Dünya veya ülke haritalarını eğlenceli bir şekilde keşfetmenizi sağlayan coğrafi yapboz tasarımı! Hem çocuklar için harika bir eğitici oyuncak hem de yetişkinler için keyifli bir hobi ürünüdür. Tamamlandığında duvarlarınızı veya masanızı süsleyecek estetik bir dekorasyona dönüşür.",
-        "images": ["images/Dünya-Yapbozu.webp","images/Dünya-Yapbozu2.webp","images/Dünya-Yapbozu3.webp","images/Dünya-Yapbozu4.webp"],
+        "images": ["images/Dünya-Yapbozu.png","images/Dünya-Yapbozu2.webp","images/Dünya-Yapbozu3.webp","images/Dünya-Yapbozu4.webp"],
         "features": ["Eğitici ve geliştirici oyuncak","Duvar ve masaüstü uyumlu", "Masaüstü ,Duvar ve stant uyumlu", "İsim veya logo eklenebilir", "Renk Çeşitleri vardır"],
         "whatsappMessage": "Dünya Yapbozu – Eğitici Harita hakkında bilgi almak istiyorum."
  },
