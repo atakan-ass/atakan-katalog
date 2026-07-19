@@ -1,4 +1,13 @@
-[
+[{
+        "id": "00001",
+        "code": "Reklam-0001",
+        "name": "Özelleştirilebilir Parametrik İsim Harf Modeli",
+        "category": "Tabela",
+        "description": "İstenilen isim veya kelimeye göre kişiselleştirilebilen modern parametrik harf modeli. Ev dekorasyonu, masa üstü süsü ve hediye olarak kullanıma uygundur.",
+        "images": ["Parametrik-İsim-Harf.webp", "Parametrik-İsim-Harf2.webp", "Parametrik-İsim-Harf3.webp", "Parametrik-İsim-Harf4.webp", "Parametrik-İsim-Harf5.webp"],
+        "features": ["Kişiselleştirilebilir tasarım", "Dekoratif kullanım", "Dış ve iç mekana uygun", "Her renk yapılabilri"],
+        "whatsappMessage": "Özelleştirilebilir Parametrik İsim Harf Modeli hakkında bilgi almak istiyorum."
+  },
   {
           "id": "dinazor-lamba",
           "code": "Dinp-001",
