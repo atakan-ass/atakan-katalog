@@ -1,5 +1,15 @@
 [
-        {
+  {
+        "id": "00005",
+        "code": "Reklam-0005",
+        "name": "Diş Anahtarlık – Diş Hekimleri ve Diş Kliniklerine",
+        "category": "Promosyon",
+        "description": "Diş hekimleri, diş hekimliği öğrencileri ve klinikler için tasarlanmış sevimli ve neşeli bir aksesuar! Bu Sevimli Diş Anahtarlık, üzerindeki sempatik gülümsemesiyle anahtarlarınıza, çantalarınıza veya klinik önlüklerinize harika bir hava katacak. Hem kendiniz için eğlenceli bir detay hem de sevdiklerinize veya hastalarınıza verebileceğiniz mükemmel bir hediyelik eşya alternatifidir.",
+        "images": ["images/dis-anahtarlık.webp"],
+        "features": ["Kişiselleştirilmiş görünüm","2 renkli baskıya uygun tasarım", "Dekoratif kullanım", "İsim veya logo eklenebilir.", "Her renk yapılabilri","Diş hekimlerine tematik hediye.","Çanta ve anahtarlık uyumlu."],
+        "whatsappMessage": "Diş Anahtarlık – Diş Hekimleri ve Diş Kliniklerine hakkında bilgi almak istiyorum."
+ },
+  {
         "id": "00004",
         "code": "Reklam-0004",
         "name": "Çiçek İşlemeli 2 Renkli Süslemeli Harfler",
@@ -29,7 +39,7 @@
         "features": ["Şık çiçek desenleri", "Dekoratif kullanım", "Dış ve iç mekana uygun", "Her renk yapılabilri"],
         "whatsappMessage": "Çiçek Desenli Dekoratif Harfler hakkında bilgi almak istiyorum."
  },
-{
+  {
         "id": "00001",
         "code": "Reklam-0001",
         "name": "Özelleştirilebilir Parametrik İsim Harf Modeli",
@@ -38,7 +48,7 @@
         "images": ["images/Parametrik-İsim-Harf.webp", "images/Parametrik-İsim-Harf2.webp", "images/Parametrik-İsim-Harf3.webp", "images/Parametrik-İsim-Harf4.webp", "images/Parametrik-İsim-Harf5.webp"],
         "features": ["Kişiselleştirilebilir tasarım", "Dekoratif kullanım", "Dış ve iç mekana uygun", "Her renk yapılabilri"],
         "whatsappMessage": "Özelleştirilebilir Parametrik İsim Harf Modeli hakkında bilgi almak istiyorum."
-      },
+ },
   {
           "id": "dinazor-lamba",
           "code": "Dinp-001",
@@ -50,84 +60,154 @@
           "whatsappMessage": "dinazor oyuuncak hakkında bilgi almak istiyorum."
   },
   {
-    "id": "masaustu-lamba",
-    "code": "AR-1001",
-    "name": "Masaüstü LED Lamba",
-    "category": "Promosyon",
-    "description": "Dokunmatik kontrollü, üç kademeli aydınlatma sunan şık masaüstü lamba.",
-    "images": ["images/led-lamba-1.svg", "images/led-lamba-2.svg"],
-    "features": ["3 kademeli dokunmatik ışık", "USB şarj desteği", "Logo baskısına uygun alan", "Katlanabilir kompakt gövde"],
-    "whatsappMessage": "Masaüstü LED Lamba hakkında bilgi almak istiyorum."
-  },
+        "id": "00006",
+        "code": "Reklam-0006",
+        "name": "Dekoratif Ay Lambası",
+        "category": "Promosyon",
+        "description": "Ev ve ofisler için büyüleyici, gerçekçi bir ay lambası tasarımı! Yaşam alanlarınıza sıcak bir atmosfer katacak bu modern lamba, hem şık bir dekorasyon öğesi hem de sevdikleriniz için harika bir hediye alternatifidir.",
+        "images": ["images/Dekoratif Ay Lambası.webp"],
+        "features": ["LED aydınlatma ile entegre.","2 renkli baskıya uygun tasarım", "Dekoratif kullanım", "İsim veya logo eklenebilir.", "Her renk yapılabilri","Gerçekçi ay yüzeyi dokusu.","Stant ve askı uyumlu."],
+        "whatsappMessage": "Dekoratif Ay Lambası hakkında bilgi almak istiyorum."
+ },
+ {
+        "id": "00007",
+        "code": "Reklam-0007",
+        "name": "Mom Yazılı Kalp Fotoğraf Çerçevesi",
+        "category": "Promosyon",
+        "description": "Anneler Günü ve doğum günleri için sevgi dolu bir hediye! 'Mom' yazısı ve kalp detayıyla birleşen bu şık çerçeve, en güzel anılarınızı sergilemek ve annenize sevginizi göstermek için mükemmel bir dekorasyon ürünüdür.",
+        "images": ["images/Yazılı-Kalp-Fotoğraf-Çerçevesi.webp", "images/Yazılı-Kalp-Fotoğraf-Çerçevesi2.webp", "images/Yazılı-Kalp-Fotoğraf-Çerçevesi3.webp", "images/Yazılı-Kalp-Fotoğraf-Çerçevesi4.webp"],
+        "features": ["Fotoğraf boyutuna göre ölçeklenebilir.","Renkli baskıya uygun tasarım", "Dekoratif kullanım", "İsim veya logo eklenebilir.", "Renk Çeşitleri vardır","Masaüstü ve duvar uyumlu.","Her anneye özel tematik hediye."],
+        "whatsappMessage": "Mom Yazılı Kalp Fotoğraf Çerçevesi hakkında bilgi almak istiyorum."
+ },
   {
-    "id": "metal-kalem",
-    "code": "AR-1002",
-    "name": "Premium Metal Kalem",
-    "category": "Promosyon",
-    "description": "Kurumsal kimliğinizi tamamlayan, lazer baskıya uygun metal tükenmez kalem.",
-    "images": ["images/metal-kalem-1.svg", "images/metal-kalem-2.svg"],
-    "features": ["Mat metal yüzey", "Mavi renk tükenmez uç", "Lazer kazıma baskı", "Hediye kutusu seçeneği"],
-    "whatsappMessage": "Premium Metal Kalem hakkında bilgi almak istiyorum."
-  },
+        "id": "00008",
+        "code": "Reklam-0008",
+        "name": "Asil Kartal Heykeli",
+        "category": "Promosyon",
+        "description": "Gücün ve özgürlüğün simgesi, büyüleyici bir kartal heykeli tasarımı! Yaşam alanlarınıza güçlü ve prestijli bir hava katacak bu modern dekorasyon öğesi, hem ofisiniz için şık bir obje hem de sevdikleriniz için harika bir hediye alternatifidir.",
+        "images": ["images/kartal-heykeli.webp"],
+        "features": ["Gerçekçi ve detaylı tüy dokusu","Renkli baskıya uygun tasarım", "Dekoratif kullanım", "İsim veya logo eklenebilir", "Renk Çeşitleri vardır","Masaüstü ve duvar uyumlu","Prestijli ofis hediyesi alternatifi"],
+        "whatsappMessage": "Asil Kartal Heykeli hakkında bilgi almak istiyorum."
+ },
+{
+        "id": "00009",
+        "code": "Reklam-0009",
+        "name": "El Formunda Takı Standı",
+        "category": "Promosyon",
+        "description": "Yüzükler, kolyeler ve küçük aksesuarlar için hem şık bir düzenleyici hem de dekoratif bir obje! El figürü ve altındaki lotus kasesiyle takılarınızı düzenli tutarken, şifonyer ve makyaj masalarınıza estetik bir hava katar.",
+        "images": ["images/el-taki-standi.webp"],
+        "features": ["Yüzük ve kolye askılı.","Renkli baskıya uygun tasarım", "Dekoratif kullanım", "İsim veya logo eklenebilir", "Renk Çeşitleri vardır","Makyaj masası için ideal","Küçük takılar için kase"],
+        "whatsappMessage": "El Formunda Takı Standı hakkında bilgi almak istiyorum."
+ },
+ {
+        "id": "00010",
+        "code": "Reklam-0010",
+        "name": "Nest Masa Düzenleyici",
+        "category": "Promosyon",
+        "description": "Kalemler, kartvizitler ve küçük ofis gereçleri için sıra dışı bir düzenleyici tasarımı! Katmanlı yapısıyla masanıza modern bir hava katarken, tüm kırtasiye malzemelerinizi düzenli tutar ve çalışma alanınıza şıklık getirir.",
+        "images": ["images/nest-masa-düzenleyici.webp"],
+        "features": ["Çok bölmeli geniş hacim","Renkli baskıya uygun tasarım", "Masaüstü ve ofis uyumlu", "İsim veya logo eklenebilir", "Renk Çeşitleri vardır","Kompakt ve düzenleyici yapı","Modern geometrik gölge tasarımı"],
+        "whatsappMessage": "Nest Masa Düzenleyici hakkında bilgi almak istiyorum."
+ },
+ {
+        "id": "00011",
+        "code": "Reklam-0011",
+        "name": "Prasel Masa Düzenleyici – MOKA Design",
+        "category": "Promosyon",
+        "description": "Çalışma masalarınız ve ofisleriniz için Moka tonlarında, modern bir düzenleyici tasarımı! Kalemlerinizi, telefonunuzu ve küçük ofis gereçlerinizi düzenli tutarken, minimalist çizgileriyle çalışma alanınıza estetik ve prestijli bir hava katar.",
+        "images": ["images/Prasel Masa Düzenleyici.webp","images/Prasel Masa Düzenleyici2.webp"],
+        "features": ["Özel telefon ve kalem bölmeli","Renkli baskıya uygun tasarım", "Masaüstü ve ofis uyumlu", "İsim veya logo eklenebilir", "Renk Çeşitleri vardır","Kompakt ve düzenleyici yapı","Modern geometrik gölge tasarımı"],
+        "whatsappMessage": "Prasel Masa Düzenleyici – MOKA Design hakkında bilgi almak istiyorum."
+ },
+ {
+        "id": "00012",
+        "code": "Reklam-0012",
+        "name": "Samurai Tütsülük",
+        "category": "Promosyon",
+        "description": "Samuray zırhı figürlü, mistik bir atmosfer yaratan tütsülük tasarımı! Meditasyon alanlarınıza, salonunuza veya çalışma masanıza güçlü ve estetik bir hava katarken, geri akışlı (backflow) tütsülerin dumanıyla büyüleyici bir görsel şölen sunar. Hem dekoratif bir heykel hem de işlevsel bir buhurdanlıktır.",
+        "images": ["images/Samurai-Tütsülük.webp"],
+        "features": ["Geri akışlı tütsü uyumlu","Renkli baskıya uygun tasarım", "Masaüstü ve ofis uyumlu", "İsim veya logo eklenebilir", "Renk Çeşitleri vardır","Dekoratif heykel ve buhurdanlık","Detaylı samuray zırhı tasarımı"],
+        "whatsappMessage": "Samurai Tütsülük hakkında bilgi almak istiyorum."
+ },
+ {
+        "id": "00013",
+        "code": "Reklam-0013",
+        "name": "Dalga Akışlı Lamba – Modern Heykelsi Gece Lambası",
+        "category": "Promosyon",
+        "description": "Dalgalı formuyla modern ve sanatsal bir dokunuş sunan heykelsi gece lambası tasarımı! Yaşam alanlarınıza yumuşak ve dinlendirici bir ışık yayarken, minimalist ve estetik çizgileriyle gündüzleri de şık bir dekoratif obje olarak öne çıkar.",
+        "images": ["images/Dalga-Akışlı-Lamba.webp","images/Dalga-Akışlı-Lamba2.webp", "images/Dalga-Akışlı-Lamba3.webp"],
+        "features": ["LED aydınlatma donanımı uyumlu","Renkli baskıya uygun tasarım", "Masaüstü ve ofis uyumlu", "İsim veya logo eklenebilir", "Renk Çeşitleri vardır","Modern heykelsi dalga formu","Yumuşak gece lambası ışığı"],
+        "whatsappMessage": "Dalga Akışlı Lamba – Modern Heykelsi Gece Lambasıhakkında bilgi almak istiyorum."
+ },
   {
-    "id": "bez-canta",
-    "code": "AR-1003",
-    "name": "Organik Bez Çanta",
-    "category": "Tekstil",
-    "description": "Günlük kullanıma uygun, dayanıklı ve markanıza özel baskı uygulanabilir bez çanta.",
-    "images": ["images/bez-canta-1.svg", "images/bez-canta-2.svg"],
-    "features": ["100% pamuk kumaş", "38 x 42 cm ölçü", "Tek veya çift taraf baskı", "Uzun sap seçeneği"],
-    "whatsappMessage": "Organik Bez Çanta hakkında bilgi almak istiyorum."
-  },
+        "id": "00014",
+        "code": "Reklam-0014",
+        "name": "Estetik Çiçek Saksısı",
+        "category": "Promosyon",
+        "description": "Vazo modunda basıma uygun, modern ve spiral hatlara sahip çiçek saksısı tasarımı! Yaşam alanlarınıza estetik bir dokunuş katarken, yapay veya kurutulmuş çiçekleriniz için şık ve minimalist bir sergileme alanı sunar.",
+        "images": ["images/Estetik-Çiçek-Saksısı.webp"],
+        "features": ["Vazo modunda basıma uygun","Renkli baskıya uygun tasarım", "Masaüstü ve ofis uyumlu", "İsim veya logo eklenebilir", "Renk Çeşitleri vardır","Estetik ve spiral hatlar","Minimalist dekoratif şık tasarım"],
+        "whatsappMessage": "Estetik Çiçek Saksısı hakkında bilgi almak istiyorum."
+ },
+ {
+        "id": "00015",
+        "code": "Reklam-0015",
+        "name": "Modern Kalemlik – Minimalist Tasarım",
+        "category": "Promosyon",
+        "description": "Ofisiniz veya çalışma masanız için minimalist ve işlevsel bir kalemlik tasarımı! Kalemlerinizi ve diğer ofis araç gereçlerinizi düzenli tutarken, şık çizgileriyle çalışma alanınıza modern bir hava katar.",
+        "images": ["images/Modern-Kalemlik.webp","images/Modern-Kalemlik2.webp"],
+        "features": ["Minimalist ve şık tasarım","Renkli baskıya uygun tasarım", "Masaüstü ve ofis uyumlu", "İsim veya logo eklenebilir", "Renk Çeşitleri vardır","Kompakt ve düzenleyici yapı","Çok yönlü tasarım"],
+        "whatsappMessage": "Modern Kalemlik – Minimalist Tasarım hakkında bilgi almak istiyorum."
+ },
+ {
+        "id": "00016",
+        "code": "Reklam-0016",
+        "name": "Modüler Oyuncak Helikopter",
+        "category": "Oyuncak",
+        "description": "Birbiriyle uyumlu parçalardan oluşan model helikopter serisi! Parçaları söküp birleştirerek çocukların hayal gücünü geliştiren bu eğlenceli oyuncak seti, hem hareketli pervaneleriyle keyifli bir oyun deneyimi sunar hem de koleksiyon için harika bir sergileme ürünüdür.",
+        "images": ["images/Modüler-Oyuncak-Helikopter.webp","images/Modüler-Oyuncak-Helikopter2.webp","images/Modüler-Oyuncak-Helikopter3.webp","images/Modüler-Oyuncak-Helikopter4.webp"],
+        "features": ["Değiştirilebilir modüler parçalı yapı","Renkli baskıya uygun tasarım", "Hareketli pervane ve tekerlekler", "İsim veya logo eklenebilir", "Renk Çeşitleri vardır","Çocuklar için yaratıcı oyuncak","Çok yönlü tasarım"],
+        "whatsappMessage": "Modüler Oyuncak Helikopter hakkında bilgi almak istiyorum."
+ }, 
+ {
+        "id": "00017",
+        "code": "Reklam-0017",
+        "name": "Triceratops Kafatası Replikası – Dekoratif Dinozor Heykeli",
+        "category": "Figür",
+        "description": "Dinozor meraklıları ve koleksiyon severler için büyüleyici bir Triceratops kafatası replikası! Evinizde, ofisinizde veya çocuk odalarında benzersiz bir dekorasyon öğesi olarak öne çıkan bu heykel, asil duruşuyla yaşam alanlarınıza tarih öncesi bir hava katar.",
+        "images": ["images/Triceratops-Kafatası-Replikası.webp","images/Triceratops-Kafatası-Replikası2.webp","images/Triceratops-Kafatası-Replikası3.webp","images/Triceratops-Kafatası-Replikası4.webp"],
+        "features": ["Detaylı ve gerçekçi doku","Dekoratif ve koleksiyon için uygun", "Masaüstü ve stant uyumlu", "İsim veya logo eklenebilir", "Renk Çeşitleri vardır"],
+        "whatsappMessage": "Triceratops Kafatası Replikası – Dekoratif Dinozor Heykeli hakkında bilgi almak istiyorum."
+ }, 
+ {
+        "id": "00018",
+        "code": "Reklam-0018",
+        "name": "Dünya Yapbozu – Eğitici Harita",
+        "category": "Oyuncak",
+        "description": "Dünya veya ülke haritalarını eğlenceli bir şekilde keşfetmenizi sağlayan coğrafi yapboz tasarımı! Hem çocuklar için harika bir eğitici oyuncak hem de yetişkinler için keyifli bir hobi ürünüdür. Tamamlandığında duvarlarınızı veya masanızı süsleyecek estetik bir dekorasyona dönüşür.",
+        "images": ["images/Dünya-Yapbozu.webp","images/Dünya-Yapbozu2.webp","images/Dünya-Yapbozu3.webp","images/Dünya-Yapbozu4.webp"],
+        "features": ["Eğitici ve geliştirici oyuncak","Duvar ve masaüstü uyumlu", "Masaüstü ,Duvar ve stant uyumlu", "İsim veya logo eklenebilir", "Renk Çeşitleri vardır"],
+        "whatsappMessage": "Dünya Yapbozu – Eğitici Harita hakkında bilgi almak istiyorum."
+ },
   {
-    "id": "kartvizit",
-    "code": "AR-1004",
-    "name": "Özel Kesim Kartvizit",
-    "category": "Matbaa",
-    "description": "İlk izlenimi güçlendiren, seçkin dokulu kağıt ve özel kesim seçenekleri.",
-    "images": ["images/kartvizit-1.svg", "images/kartvizit-2.svg"],
-    "features": ["350 gr Amerikan Bristol", "Mat selefon veya kabartma lak", "Çift yön renkli baskı", "Özel kesim seçeneği"],
-    "whatsappMessage": "Özel Kesim Kartvizit hakkında bilgi almak istiyorum."
-  },
-  {
-    "id": "termos",
-    "code": "AR-1005",
-    "name": "Çelik Termos 500 ml",
-    "category": "Promosyon",
-    "description": "Gün boyu ideal sıcaklığı koruyan, kişiselleştirilebilir paslanmaz çelik termos.",
-    "images": ["images/termos-1.svg", "images/termos-2.svg"],
-    "features": ["500 ml kapasite", "6 saate kadar sıcak tutma", "Paslanmaz çelik iç yüzey", "UV veya lazer baskı"],
-    "whatsappMessage": "Çelik Termos 500 ml hakkında bilgi almak istiyorum."
-  },
-  {
-    "id": "folyo-yazi",
-    "code": "AR-1006",
-    "name": "Folyolu Vitrin Yazısı",
-    "category": "Tabela",
-    "description": "Mağaza ve ofis camları için yüksek görünürlüklü, uzun ömürlü folyo uygulaması.",
-    "images": ["images/vitrin-folyo-1.svg", "images/vitrin-folyo-2.svg"],
-    "features": ["İç ve dış mekan kullanımı", "Renkli folyo seçenekleri", "Ölçüye özel üretim", "Profesyonel montaj"],
-    "whatsappMessage": "Folyolu Vitrin Yazısı hakkında bilgi almak istiyorum."
-  },
-  {
-    "id": "a4-brosur",
-    "code": "AR-1007",
-    "name": "A4 Broşür Seti",
-    "category": "Matbaa",
-    "description": "Kurumsal tanıtım için yüksek baskı kalitesine sahip, iki parçalı broşür seti.",
-    "images": ["images/kartvizit-1.svg", "images/kartvizit-2.svg"],
-    "features": ["A4 boyut", "4 renk baskı", "Karton kapak seçeneği", "Hızlı üretim"],
-    "whatsappMessage": "A4 Broşür Seti hakkında bilgi almak istiyorum."
-  },
-  {
-    "id": "led-tabela",
-    "code": "AR-1008",
-    "name": "LED Tabela Panel",
-    "category": "Tabela",
-    "description": "Gece görünürlüğü yüksek, dış mekan kullanıma uygun LED tabela paneli.",
-    "images": ["images/vitrin-folyo-1.svg", "images/vitrin-folyo-2.svg"],
-    "features": ["LED aydınlatma", "Dış mekan dayanımı", "Özelleştirilebilir ölçü", "Montaj hizmeti"],
-    "whatsappMessage": "LED Tabela Panel hakkında bilgi almak istiyorum."
-  }
+        "id": "00019",
+        "code": "Reklam-0019",
+        "name": "Kurt Heykeli – Dekoratif Kurt Figürü",
+        "category": "Figür",
+        "description": "Doğanın ve özgürlüğün simgesi, hayranlık uyandırıcı bir kurt heykeli tasarımı! Yaşam alanlarınıza güçlü ve asil bir atmosfer katacak bu yüksek detaylı figür, hem dekorasyon tutkunları için benzersiz bir obje hem de sevdikleriniz için harika bir hediye alternatifidir.",
+        "images": ["images/Kurt-Heykeli.webp","images/Kurt-Heykeli2.webp","images/Kurt-Heykeli3.webp"],
+        "features": ["Masaüstü ve konsol uyumlu","Asil ve güçlü tasarım","İsim veya logo eklenebilir", "Renk Çeşitleri vardır"],
+        "whatsappMessage": "Kurt Heykeli – Dekoratif Kurt Figürü hakkında bilgi almak istiyorum."
+ },
+ {
+        "id": "00020",
+        "code": "Reklam-0020",
+        "name": "Kartal Modeli – Dekoratif Kartal Figürü",
+        "category": "Figür",
+        "description": "Özgürlüğün ve gücün simgesi olan büyüleyici bir kartal tasarımı! Keskin hatları ve etkileyici duruşuyla ofisinizde, salonunuzda veya çalışma masanızda prestijli bir atmosfer yaratırken, dekorasyonunuza modern ve sanatsal bir dokunuş ekler.",
+        "images": ["images/Kartal-Kanatlı-Modeli.webp"],
+        "features": ["Masaüstü ve konsol uyumlu","Asil ve güçlü tasarım","İsim veya logo eklenebilir", "Renk Çeşitleri vardır","Yüksek detaylı kanat dokusu"],
+        "whatsappMessage": "Kartal Modeli – Dekoratif Kartal Figürü hakkında bilgi almak istiyorum."
+ }
 ]
 
