@@ -1,4 +1,34 @@
 [
+        {
+        "id": "00004",
+        "code": "Reklam-0004",
+        "name": "Çiçek İşlemeli 2 Renkli Süslemeli Harfler",
+        "category": "Tabela",
+        "description": "Zarif çiçek motifleri ve iki renkli baskı tasarımıyla hazırlanan dekoratif harf modeli. İsim tabelaları, çocuk odası dekorasyonu, düğün, nişan, doğum günü ve özel hediyeler için şık bir görünüm sunar. Çok parçalı yapısı sayesinde farklı renk kombinasyonlarıyla kolayca üretilebilir.",
+        "images": ["images/Çiçek-İşlemeli-2-Renkli.webp", "images/Çiçek-İşlemeli-2-Renkli2.webp", "images/Çiçek-İşlemeli-2-Renkli3.webp", "images/Çiçek-İşlemeli-2-Renkli4.webp","images/Çiçek-İşlemeli-2-Renkli5.webp"],
+        "features": ["Kişiselleştirilmiş görünüm","2 renkli baskıya uygun tasarım", "Dekoratif kullanım", "Dış ve iç mekana uygun", "Her renk yapılabilri","Zarif çiçek işlemeleri"],
+        "whatsappMessage": "Çiçek İşlemeli 2 Renkli Süslemeli Harfler hakkında bilgi almak istiyorum."
+ },
+   {
+        "id": "00003",
+        "code": "Reklam-0003",
+        "name": "Dekoratif Çocuk Harfleri",
+        "category": "Tabela",
+        "description": "İsmin özel tasarlanmış dekoratif M harf plakasıdır. Zarif süsleme detaylarıyla ev, ofis, çocuk odası veya hediye amaçlı kullanıma uygundur. 3D baskı için optimize edilmiş olup farklı filament renkleriyle kolayca üretilebilir.",
+        "images": ["images/Dekoratif-Çocuk-Harfleri.webp", "images/Dekoratif-Çocuk-Harfleri2.webp", "images/Çiçek-Desenli-Dekoratif-Harfler3.webp", "images/Dekoratif-Çocuk-Harfleri4.webp"],
+        "features": ["Kişiselleştirilmiş görünüm","Dekoratif M ve E harf tasarımı", "Dekoratif kullanım", "Dış ve iç mekana uygun", "Her renk yapılabilri"],
+        "whatsappMessage": "Dekoratif Çocuk Harfleri hakkında bilgi almak istiyorum."
+ },
+  {
+        "id": "00002",
+        "code": "Reklam-0002",
+        "name": "Çiçek Desenli Dekoratif Harfler",
+        "category": "Tabela",
+        "description": "İstenilZarif çiçek detaylarıyla tasarlanmış dekoratif harf modeli. İsim tabelaları, oda dekorasyonu ve özel hediyeler için idealdir.",
+        "images": ["images/Çiçek-Desenli-Dekoratif-Harfler.webp", "images/Çiçek-Desenli-Dekoratif-Harfler2.webp", "images/Çiçek-Desenli-Dekoratif-Harfler3.webp", "images/Çiçek-Desenli-Dekoratif-Harfler4.webp", "images/Çiçek-Desenli-Dekoratif-Harfler5.webp"],
+        "features": ["Şık çiçek desenleri", "Dekoratif kullanım", "Dış ve iç mekana uygun", "Her renk yapılabilri"],
+        "whatsappMessage": "Çiçek Desenli Dekoratif Harfler hakkında bilgi almak istiyorum."
+ },
 {
         "id": "00001",
         "code": "Reklam-0001",
