@@ -323,7 +323,7 @@
        "name": "Çalışan Oyuncak Pistol Tabanca",
        "category": "Oyuncak",
        "description": "Tetiği, sürgüsü ve hareketli mekanizması çalışan bu oyuncak tabanca modeli, gerçekçi bir kullanım hissi sunmak üzere tasarlanmıştır. 3D baskıya uygun yapısıyla koleksiyon, cosplay, dekor ve hobi projeleri için ideal bir seçimdir.",
-       "images": ["images/tabanca.webp"],
+       "images": ["images/tabanca.webp","images/tabanca2.webp","images/tabanca3.webp","images/tabanca4.webp"],
        "features": [
        "Çalışan tetik mekanizması",
        "Hareketli sürgü tasarımı",
@@ -340,7 +340,7 @@
        "name": "CS Kelebek Bıçağı",
        "category": "Dekor",
        "description": "Popüler FPS oyunlarından ilham alınarak tasarlanan kelebek bıçak modeli, yüksek detay seviyesi ve estetik görünümüyle koleksiyon ve dekor amaçlı sergileme için hazırlanmıştır. 3D baskıya uygun yapısı sayesinde hobi projeleri ve vitrin sunumlarında dikkat çekici bir parçadır.",
-       "images": ["images/kelebek.webp"],
+       "images": ["images/kelebek.webp", "images/kelebek2.webp", "images/kelebek3.webp"],
        "features": [
        "Oyun temalı tasarım",
        "Yüksek detaylı model",
@@ -357,7 +357,7 @@
        "name": "Kunai",
        "category": "Dekor",
        "description": "Japon kültüründen ilham alan kunai modeli, sivri ucu ve karakteristik tasarımıyla koleksiyon, cosplay ve dekoratif sergileme için hazırlanmıştır. Yüksek detaylı yapısı sayesinde 3D baskı sonrası boyanarak gerçekçi bir görünüm elde edilebilir.",
-       "images": ["images/kunai.webp"],
+       "images": ["images/kunai.webp","images/kunai2.webp"],
        "features": [
        "Japon tarzı tasarım",
        "Yüksek detaylı model",
@@ -374,7 +374,7 @@
        "name": "2025 Kelebek Bıçağı",
        "category": "Dekor",
        "description": "2025 serisinden ilham alınarak tasarlanan modern kelebek bıçak modeli, keskin hatları ve şık görünümüyle koleksiyon ve dekor amaçlı kullanım için idealdir. Yüksek detaylı yapısı sayesinde 3D baskı sonrası boyanarak etkileyici bir sergileme parçasına dönüştürülebilir.",
-       "images": ["images/2025-kelebek.webp"],
+       "images": ["images/2025-kelebek.webp","images/2025-kelebek2"],
        "features": [
        "2025 serisi tasarım",
        "Modern kelebek bıçak modeli",
@@ -391,7 +391,7 @@
        "name": "Gölge Serisi Bıçak",
        "category": "Dekor",
        "description": "Koyu renk teması ve keskin hatlarıyla öne çıkan Gölge Serisi bıçak modeli, koleksiyon ve dekor amaçlı sergileme için tasarlanmıştır. Yüksek detaylı yapısı sayesinde 3D baskı sonrası boyanarak etkileyici bir görünüm elde edilebilir.",
-       "images": ["images/golge-bıcak.webp"],
+       "images": ["images/golge-bıcak.webp","images/golge-bıcak2.webp"],
        "features": [
        "Gölge temalı tasarım",
        "Yüksek detaylı model",
@@ -408,7 +408,7 @@
        "name": "Katlanabilir Rengoku Katanası",
        "category": "Dekor",
        "description": "Demon Slayer'ın sevilen karakteri Kyojuro Rengoku'nun ikonik katanasından ilham alınarak tasarlanan katlanabilir modeldir. Açılıp kapanabilen yapısı, yüksek detay seviyesi ve animeye sadık görünümüyle koleksiyon, cosplay ve dekoratif sergileme için mükemmel bir seçimdir.",
-       "images": ["images/rengoku.webp"],
+       "images": ["images/rengoku.webp","images/rengoku2.webp"],
        "features": [
        "Katlanabilir tasarım",
        "Animeye sadık detaylar",
@@ -425,7 +425,7 @@
        "name": "Karambit Bıçak V2",
        "category": "Dekor",
        "description": "Counter-Strike'tan ilham alınarak tasarlanan Karambit V2 modeli, kıvrımlı bıçak yapısı ve ergonomik tutma halkasıyla dikkat çeker. Yüksek detaylı tasarımı sayesinde koleksiyon, cosplay ve dekoratif sergileme için şık bir 3D baskı modelidir.",
-       "images": ["images/karambit.webp"],
+       "images": ["images/karambit.webp","images/karambit2.webp","images/karambit3.webp"],
        "features": [
        "Counter-Strike temalı tasarım",
        "Ergonomik halka sap",
@@ -442,7 +442,7 @@
        "name": "Barok Ejderha Maskesi",
        "category": "Dekor",
        "description": "Barok süslemeler ile Asya ejderhası motiflerini bir araya getiren bu dekoratif maske, duvar sergilemeleri ve koleksiyonlar için tasarlanmıştır. İnce işlenmiş desenleri ve etkileyici görünümü sayesinde yaşam alanlarına sanatsal bir dokunuş katar.",
-       "images": ["images/ejderha-maskesi.webp"],
+       "images": ["images/ejderha-maskesi.webp","images/ejderha-maskesi2.webp","images/ejderha-maskesi3.webp"],
        "features": [
        "Barok işlemeli tasarım",
        "Asya ejderhası teması",
@@ -459,7 +459,7 @@
        "name": "Gerçekçi Ejderha Eli",
        "category": "Dekor",
        "description": "Gerçekçi pullar, uzun pençeler ve güçlü anatomik detaylarla tasarlanan ejderha eli modeli, fantastik temalı koleksiyonlar ve dekoratif sergilemeler için hazırlanmıştır. Etkileyici görünümü sayesinde boyama projeleri ve vitrin sunumlarında dikkat çeken bir parçadır.",
-       "images": ["images/ejderha-eli.webp"],
+       "images": ["images/ejderha-eli.webp","images/ejderha-eli2.webp"],
        "features": [
        "Gerçekçi ejderha anatomisi",
        "Detaylı pul ve pençe yapısı",
@@ -476,7 +476,7 @@
        "name": "Deadpool Büstü",
        "category": "Dekor",
        "description": "Deadpool karakterinden ilham alınarak hazırlanan bu fan art büst modeli, maskesindeki ince detaylar ve güçlü duruşuyla koleksiyon severler için tasarlanmıştır. Boyamaya uygun yapısı sayesinde vitrinlerde ve masaüstü sergilemelerinde etkileyici bir görünüm sunar.",
-       "images": ["images/deadpool.webp"],
+       "images": ["images/deadpool.webp","images/deadpool2.webp"],
        "features": [
        "Fan art tasarım",
        "Yüksek detaylı büst",
@@ -511,7 +511,7 @@
        "name": "Samuray Savaşçısı Figürü",
        "category": "Dekor",
        "description": "Geleneksel Japon savaşçılarından ilham alınarak tasarlanan Samuray Savaşçısı Figürü, özenle işlenmiş zırhı, silahı ve güçlü duruşuyla dikkat çeker. Tarihi atmosferi yansıtan bu yüksek detaylı model, koleksiyon, boyama projeleri ve dekoratif sergilemeler için etkileyici bir parçadır.",
-       "images": ["images/samuray.webp"],
+       "images": ["images/samuray.webp", "images/samuray2.webp", "images/samuray3.webp"],
        "features": [
        "Geleneksel samuray tasarımı",
        "Detaylı zırh ve silah işçiliği",
@@ -528,7 +528,7 @@
        "name": "Meslek Eğitimi Figür Seti",
        "category": "Dekor",
        "description": "Teknoloji, sağlık ve sosyal bilimler alanlarını temsil eden üç figürden oluşan bu dekoratif set, eğitim kurumları, ofisler ve koleksiyonlar için tasarlanmıştır. Her figür kendi meslek alanını yansıtan detaylara sahip olup modern ve anlamlı bir sergileme sunar.",
-       "images": ["images/meslek.webp"],
+       "images": ["images/meslek.webp","images/meslek2.webp","images/meslek3.webp"],
        "features": [
        "Üç figürden oluşan set",
        "Teknoloji, sağlık ve sosyal bilimler teması",
@@ -545,7 +545,7 @@
        "name": "Cristiano Ronaldo Figürü",
        "category": "Dekor",
        "description": "Dünyaca ünlü futbolcu Cristiano Ronaldo'dan ilham alınarak tasarlanan bu figür, karakteristik duruşu ve ince detaylarıyla koleksiyon severler için hazırlanmıştır. Boyamaya uygun yapısı sayesinde vitrin, masaüstü ve futbol temalı dekorasyonlarda dikkat çekici bir sergileme sunar.",
-       "images": ["images/ronaldo.webp"],
+       "images": ["images/ronaldo.webp","images/ronaldo2.webp"],
        "features": [
        "Cristiano Ronaldo temalı tasarım",
        "Yüksek detaylı figür",
@@ -562,7 +562,7 @@
        "name": "Hilal Baykuş LED Mumluk",
        "category": "Dekor",
        "description": "Hilal ay üzerine konumlanmış baykuş figürüyle tasarlanan bu mistik LED mumluk, bulunduğu ortama sıcak ve büyüleyici bir atmosfer katar. LED mumlarla güvenli kullanım sunarken, dekoratif görünümü sayesinde ev, ofis ve hediye amaçlı kullanım için şık bir seçenektir.",
-       "images": ["images/baykus.webp"],
+       "images": ["images/baykus.webp","images/baykus2.webp"],
        "features": [
        "Hilal ve baykuş temalı tasarım",
        "LED mum ile uyumlu",
@@ -579,7 +579,7 @@
        "name": "Luffy Gear 5 Figürü",
        "category": "Dekor",
        "description": "One Piece'in en güçlü dönüşümlerinden biri olan Gear 5 formundaki Monkey D. Luffy'den ilham alınarak tasarlanan bu figür, dinamik pozu ve etkileyici detaylarıyla öne çıkar. Anime koleksiyonları, boyama projeleri ve dekoratif sergilemeler için yüksek kaliteli bir 3D baskı modelidir.",
-       "images": ["images/luffy.webp"],
+       "images": ["images/luffy.webp","images/luffy2.webp","images/luffy3.webp"],
        "features": [
        "One Piece Gear 5 temalı tasarım",
        "Dinamik aksiyon pozu",
@@ -596,7 +596,7 @@
        "name": "Spartan Savaşçı Heykeli",
        "category": "Dekor",
        "description": "Antik Sparta'nın cesur savaşçılarından ilham alınarak tasarlanan bu heykel, güçlü duruşu, detaylı zırhı ve savaş ekipmanlarıyla tarihi atmosferi yansıtır. Koleksiyon, boyama projeleri ve dekoratif sergilemeler için etkileyici bir 3D baskı modelidir.",
-       "images": ["images/spartan.webp"],
+       "images": ["images/spartan.webp","images/spartan2.webp","images/spartan3.webp","images/spartan4.webp"],
        "features": [
        "Antik Sparta temalı tasarım",
        "Detaylı zırh ve kalkan işçiliği",
@@ -613,7 +613,7 @@
        "name": "Çift Gül Heykeli",
        "category": "Dekor",
        "description": "Birbirine zarif şekilde sarılmış iki gül figüründen oluşan bu dekoratif heykel, sevgi ve bağlılığı simgeleyen şık bir tasarıma sahiptir. Sevgililer Günü, yıldönümü ve özel gün hediyeleri için anlamlı bir dekoratif obje olarak öne çıkar.",
-       "images": ["images/cift-gul.webp"],
+       "images": ["images/cift-gul.webp","images/cift-gul2.webp","images/cift-gul3.webp"],
        "features": [
        "Çift gül temalı tasarım",
        "Romantik dekoratif görünüm",
@@ -664,7 +664,7 @@
        "name": "Minecraft Esnek Aksolotl",
        "category": "Oyuncak",
        "description": "Minecraft'taki sevimli aksolotldan ilham alınarak tasarlanan bu esnek figür, hareketli eklem yapısı sayesinde doğal bir şekilde bükülebilir. Tek parça baskıya uygun tasarımıyla hem çocuklar hem de koleksiyon meraklıları için eğlenceli ve dikkat çekici bir 3D baskı modelidir. :contentReference[oaicite:0]{index=0}",
-       "images": ["images/aksolotl.webp"],
+       "images": ["images/aksolotl.webp","images/aksolotl2.webp","images/aksolotl3.webp","images/aksolotl4.webp"],
        "features": [
        "Minecraft temalı tasarım",
        "Esnek ve hareketli gövde",
@@ -681,7 +681,7 @@
        "name": "Sauron Heykeli",
        "category": "Dekor",
        "description": "Yüzüklerin Efendisi evreninin karanlık lordu Sauron'dan ilham alınarak tasarlanan bu heykel, zırhındaki ince işlemeler ve tehditkâr duruşuyla dikkat çeker. Fantastik koleksiyonlar, boyama projeleri ve vitrin sergilemeleri için etkileyici bir 3D baskı modelidir.",
-       "images": ["images/sauron.webp"],
+       "images": ["images/sauron.webp","images/sauron2.webp","images/sauron3.webp"],
        "features": [
        "Sauron temalı tasarım",
        "Detaylı zırh ve miğfer işçiliği",
@@ -698,7 +698,7 @@
        "name": "Messi Funko Pop Figürü",
        "category": "Dekor",
        "description": "Lionel Messi'den ilham alınarak Funko Pop tarzında tasarlanan bu figür, büyük kafa yapısı ve sevimli detaylarıyla futbol tutkunları için eğlenceli bir koleksiyon parçasıdır. Boyamaya uygun yapısı sayesinde vitrin, masaüstü ve futbol temalı dekorasyonlarda şık bir görünüm sunar.",
-       "images": ["images/messi.webp"],
+       "images": ["images/messi.webp","images/messi2.webp","images/messi3.webp"],
        "features": [
        "Funko Pop tarzı tasarım",
        "Messi temalı figür",
@@ -733,7 +733,7 @@
        "name": "T-Rex Figürü",
        "category": "Dekor",
        "description": "Tarih öncesi dönemin en ikonik yırtıcılarından Tyrannosaurus Rex'ten ilham alınarak tasarlanan bu figür, güçlü duruşu ve gerçekçi iskelet ile deri detaylarıyla dikkat çeker. Dinozor meraklıları, koleksiyoncular ve dekoratif sergilemeler için etkileyici bir 3D baskı modelidir.",
-       "images": ["images/trex.webp"],
+       "images": ["images/trex.webp","images/trex2.webp"],
        "features": [
        "Gerçekçi T-Rex tasarımı",
        "Yüksek detaylı model",
@@ -750,7 +750,7 @@
        "name": "İnsan Kalbi Anatomik Modeli",
        "category": "Eğitim",
        "description": "Gerçek insan kalbinin anatomik yapısından ilham alınarak tasarlanan bu model, damarlar, karıncıklar ve kulakçıklar gibi önemli detayları yüksek doğrulukla yansıtır. Eğitim, tıp, biyoloji çalışmaları ve dekoratif sergilemeler için ideal bir 3D baskı modelidir.",
-       "images": ["images/kalp.webp"],
+       "images": ["images/kalp.webp","images/kalp2.webp"],
        "features": [
        "Gerçekçi anatomik tasarım",
        "Detaylı damar yapısı",
@@ -767,7 +767,7 @@
        "name": "Kurt Adam Figürü",
        "category": "Dekor",
        "description": "Keskin pençeleri, güçlü kas yapısı ve vahşi duruşuyla tasarlanan Kurt Adam figürü, fantastik ve korku temalı koleksiyonlar için etkileyici bir parçadır. Yüksek detaylı yüz hatları ve kürk dokusu sayesinde boyama projeleri ile dekoratif sergilemelerde gerçekçi bir görünüm sunar.",
-       "images": ["images/kurtadam.webp"],
+       "images": ["images/kurtadam.jpg","images/kurtadam2.jpg","images/kurtadam3.jpg","images/kurtadam4.jpg"],
        "features": [
        "Fantastik kurt adam tasarımı",
        "Detaylı kürk ve pençe işçiliği",
