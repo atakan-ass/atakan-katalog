@@ -4,6 +4,7 @@
   const state = { products: [], announcements: [], query: "", category: "Tümü", selectedColors: {} };
   const app = document.querySelector("#app");
   const WHATSAPP_NUMBER = "905528832902";
+  const FEATURED_PRODUCT_ORDER = ["00009", "00030", "00051"];
   const COLOR_OPTIONS = [
     { name: "Kırık beyaz", hex: "#F6F3EA" },
     { name: "Siyah", hex: "#242424" },
@@ -155,6 +156,10 @@
       const haystack = [product.name, product.code, product.category, product.description].join(" ").toLocaleLowerCase("tr");
       const matchesSearch = !term || haystack.includes(term);
       return matchesCategory && matchesSearch;
+    }).sort((a, b) => {
+      const aPriority = FEATURED_PRODUCT_ORDER.indexOf(a.id);
+      const bPriority = FEATURED_PRODUCT_ORDER.indexOf(b.id);
+      return (aPriority === -1 ? Infinity : aPriority) - (bPriority === -1 ? Infinity : bPriority);
     });
   }
 
