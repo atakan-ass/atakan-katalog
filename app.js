@@ -4,7 +4,11 @@
   const state = { products: [], announcements: [], query: "", category: "Tümü", selectedColors: {} };
   const app = document.querySelector("#app");
   const WHATSAPP_NUMBER = "905528832902";
-  const FEATURED_PRODUCT_ORDER = ["00009", "00030", "00051"];
+  const FEATURED_PRODUCT_ORDER = [
+    "00009", "00030", "00051",
+    "00063", "00064", "00065", "00066", "00067", "00068",
+    "00069", "00070", "00071", "00072", "00073"
+  ];
   const COLOR_OPTIONS = [
     { name: "Kırık beyaz", hex: "#F6F3EA" },
     { name: "Siyah", hex: "#242424" },
@@ -170,7 +174,7 @@
 
   function createMessage(product, color) {
     return [
-      "Merhaba Atakan Reklam.",
+      "Merhaba Atakan Reklam",
       "",
       "Katalogdan aşağıdaki ürünü seçtim.",
       "",
@@ -230,7 +234,7 @@
       <section class="hero">
         <div class="container">
           <p class="eyebrow">Dijital Ürün Kataloğu</p>
-          <h1>ATAKAN 3D.</h1>
+          <h1>ATAKAN 3D</h1>
           <p class="hero-copy">Promosyon, matbaa, tabela ve tekstil ürünlerini keşfedin. </p>
           ${renderAnnouncements()}
         </div>
@@ -409,6 +413,7 @@
 
     app.focus();
   }
+
 
   async function init() {
     await loadInitialProducts();
