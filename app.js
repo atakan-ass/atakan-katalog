@@ -1,9 +1,35 @@
 // app.js
 // Ana uygulama mantığı, durum takibi ve sayfa render işlemlerini burada yönetir.
 (() => {
-  const state = { products: [], announcements: [], query: "", category: "Tümü" };
+  const state = { products: [], announcements: [], query: "", category: "Tümü", selectedColors: {} };
   const app = document.querySelector("#app");
   const WHATSAPP_NUMBER = "905528832902";
+  const COLOR_OPTIONS = [
+    { name: "Kırık beyaz", hex: "#F6F3EA" },
+    { name: "Siyah", hex: "#242424" },
+    { name: "Antrasit", hex: "#454A50" },
+    { name: "Gri", hex: "#9299A1" },
+    { name: "Gümüş", hex: "#C7CCD1" },
+    { name: "Kırmızı", hex: "#D9363E" },
+    { name: "Bordo", hex: "#812D43" },
+    { name: "Turuncu", hex: "#F07832" },
+    { name: "Sarı", hex: "#F2C94C" },
+    { name: "Altın", hex: "#C8A64B" },
+    { name: "Mint", hex: "#83CDB5" },
+    { name: "Yeşil", hex: "#39865A" },
+    { name: "Zümrüt", hex: "#087F6B" },
+    { name: "Lime", hex: "#A6C94A" },
+    { name: "Turkuaz", hex: "#2CB7B0" },
+    { name: "Açık mavi", hex: "#79BFE2" },
+    { name: "Mavi", hex: "#3478C9" },
+    { name: "Lacivert", hex: "#263B73" },
+    { name: "Mor", hex: "#7956B8" },
+    { name: "Lila", hex: "#B59BD6" },
+    { name: "Pembe", hex: "#E783A9" },
+    { name: "Fuşya", hex: "#D9468F" },
+    { name: "Kahverengi", hex: "#8A5A3B" },
+    { name: "Bej", hex: "#D9C3A1" }
+  ];
   function getFallbackProducts() {
     const source = document.querySelector("#products-data");
     if (!source) return [];
@@ -137,7 +163,7 @@
     return match ? state.products.find(product => product.id === decodeURIComponent(match[1])) : null;
   }
 
-  function createMessage(product) {
+  function createMessage(product, color) {
     return [
       "Merhaba Atakan Reklam.",
       "",
@@ -149,12 +175,17 @@
       "Ürün Kodu:",
       product.code,
       "",
+      "Seçilen renk:",
+      `${color.name} (${color.hex})`,
+      "",
       "Bilgi alabilir miyim?"
     ].join("\n");
   }
 
-  function openWhatsApp(product, isSelection = false) {
-    const message = isSelection ? createMessage(product) : product.whatsappMessage;
+  function openWhatsApp(product, isSelection = false, color = COLOR_OPTIONS[0]) {
+    const message = isSelection
+      ? createMessage(product, color)
+      : [product.whatsappMessage, `Seçilen renk: ${color.name} (${color.hex})`].filter(Boolean).join("\n\n");
     window.open(buildWhatsAppUrl(message), "_blank", "noopener,noreferrer");
   }
 
@@ -194,8 +225,8 @@
       <section class="hero">
         <div class="container">
           <p class="eyebrow">Dijital Ürün Kataloğu</p>
-          <h1>Markanızı güçlü bir deneyimle öne çıkarın.</h1>
-          <p class="hero-copy">Promosyon, matbaa, tabela ve tekstil ürünlerini keşfedin. Seçtiğiniz ürünü doğrudan WhatsApp üzerinden bize iletin.</p>
+          <h1>ATAKAN 3D.</h1>
+          <p class="hero-copy">Promosyon, matbaa, tabela ve tekstil ürünlerini keşfedin. </p>
           ${renderAnnouncements()}
         </div>
       </section>
@@ -255,6 +286,7 @@
 
   function renderDetail(product) {
     const featuresMarkup = product.features.map(feature => `<li><span class="check">${icons.check}</span>${escapeHtml(feature)}</li>`).join("");
+    const selectedColor = state.selectedColors[product.id] || COLOR_OPTIONS[0];
 
     app.innerHTML = `
       <section class="detail-page">
@@ -278,6 +310,32 @@
               <h1 class="detail-title">${escapeHtml(product.name)}</h1>
               <p class="product-code">Ürün kodu: <strong>${escapeHtml(product.code)}</strong></p>
               <p class="detail-description">${escapeHtml(product.description)}</p>
+
+              <section class="color-picker-section" aria-labelledby="color-picker-title">
+                <div class="color-picker-heading">
+                  <h2 id="color-picker-title">Renk seçenekleri</h2>
+                  <span>24 renk</span>
+                </div>
+                <div class="color-preview" aria-live="polite">
+                  <span class="color-preview-swatch" id="color-preview-swatch" style="--selected-color: ${selectedColor.hex}" aria-hidden="true"></span>
+                  <div class="color-preview-info">
+                    <span>Seçili renk</span>
+                    <strong id="selected-color-name">${escapeHtml(selectedColor.name)}</strong>
+                    <span class="color-preview-hex" id="selected-color-hex">${selectedColor.hex}</span>
+                  </div>
+                </div>
+                <div class="color-options" role="group" aria-label="Ürün rengini seçin">
+                  ${COLOR_OPTIONS.map(color => `
+                    <button class="color-option ${color.name === selectedColor.name ? "selected" : ""}" type="button"
+                      data-color-name="${escapeHtml(color.name)}" data-color-hex="${color.hex}"
+                      aria-label="${escapeHtml(color.name)} rengi, ${color.hex}" aria-pressed="${color.name === selectedColor.name}"
+                      title="${escapeHtml(color.name)} - ${color.hex}">
+                      <span class="color-option-swatch" style="--swatch-color: ${color.hex}" aria-hidden="true"></span>
+                      <span class="color-option-name">${escapeHtml(color.name)}</span>
+                    </button>
+                  `).join("")}
+                </div>
+              </section>
 
               <section class="feature-section">
                 <h2>Teknik özellikler</h2>
@@ -307,8 +365,27 @@
       });
     });
 
-    document.querySelector("#select-product").addEventListener("click", () => openWhatsApp(product, true));
-    document.querySelector("#ask-whatsapp").addEventListener("click", () => openWhatsApp(product));
+    document.querySelectorAll("[data-color-name]").forEach(button => {
+      button.addEventListener("click", () => {
+        const color = { name: button.dataset.colorName, hex: button.dataset.colorHex };
+        state.selectedColors[product.id] = color;
+        document.querySelector("#color-preview-swatch").style.setProperty("--selected-color", color.hex);
+        document.querySelector("#selected-color-name").textContent = color.name;
+        document.querySelector("#selected-color-hex").textContent = color.hex;
+        document.querySelectorAll("[data-color-name]").forEach(option => {
+          const isSelected = option === button;
+          option.classList.toggle("selected", isSelected);
+          option.setAttribute("aria-pressed", String(isSelected));
+        });
+      });
+    });
+
+    document.querySelector("#select-product").addEventListener("click", () => {
+      openWhatsApp(product, true, state.selectedColors[product.id] || COLOR_OPTIONS[0]);
+    });
+    document.querySelector("#ask-whatsapp").addEventListener("click", () => {
+      openWhatsApp(product, false, state.selectedColors[product.id] || COLOR_OPTIONS[0]);
+    });
   }
 
   function renderApp() {
