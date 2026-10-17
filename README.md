@@ -6,7 +6,8 @@ Bu proje, statik dosyalarla çalışan modern bir dijital ürün kataloğu sites
 - Mobil uyumlu tasarım
 - Ürün arama ve kategori filtresi
 - Ürün detay ekranı
-- WhatsApp üzerinden ürün seçimi
+- Her üründe 24 renkli seçenek ve anlık renk ön izlemesi
+- Seçilen renkle birlikte WhatsApp üzerinden ürün seçimi
 - Admin paneli ile ürün ve duyuru yönetimi
 
 ## Yerelde çalıştırma
